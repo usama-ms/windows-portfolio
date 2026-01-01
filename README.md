@@ -1,31 +1,15 @@
 # Windows 10 UI Clone - Interactive Portfolio
 
-![Windows 10 UI Clone](https://portfolio.uxmechanic.com/images/preview.png)
+![Windows 10 UI Clone](https://usama-windows.vercel.app/images/preview.png)
 
 ## 🌐 Live Demo
 
-Visit the live demo at [portfolio.uxmechanic.com](https://portfolio.uxmechanic.com)
+Visit the live demo at [portfolio.uxmechanic.com](https://usama-windows.vercel.app)
 
 ## 📖 Overview
 
 This project is an interactive portfolio website designed as a Windows 10 desktop clone. It provides a unique and engaging way to showcase skills, projects, and professional information through a familiar Windows 10 interface. Users can interact with the desktop, open applications, and explore content just like they would on a real Windows 10 system.
 
-## 📸 Screenshots
-
-### Login Screen
-![Login Screen](https://portfolio.uxmechanic.com/images/screenshots/login.png)
-
-### Desktop
-![Desktop](https://portfolio.uxmechanic.com/images/screenshots/desktop.png)
-
-### Start Menu
-![Start Menu](https://portfolio.uxmechanic.com/images/screenshots/startmenu.png)
-
-### Project Window
-![Project Window](https://portfolio.uxmechanic.com/images/screenshots/projects.png)
-
-### File Explorer
-![File Explorer](https://portfolio.uxmechanic.com/images/screenshots/explorer.png)
 
 ## ✨ Features
 
@@ -65,7 +49,7 @@ This project is an interactive portfolio website designed as a Windows 10 deskto
 
 1. Clone the repository:
    \`\`\`bash
-   git clone https://github.com/usama-ms/windows10-portfolio.git
+   git clone https://github.com/usama-ms/windows-portfolio.git
    cd windows10-portfolio
    \`\`\`
 
